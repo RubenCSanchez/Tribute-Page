@@ -1,0 +1,18 @@
+/* Fuentes importadas */
+
+@font-face {
+    font-family: 'pixel';
+    src: URL('../fonts/Pixeled.ttf') format('truetype');
+  }
+
+* {
+    background-color: silver;
+}
+
+#title {
+    font-family: pixel;
+}
+
+#image {
+    width: 35%;
+}
